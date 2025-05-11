@@ -1,0 +1,126 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "title": "Responsive Portfolio Website",
+            "description": "A personal portfolio website built using HTML, CSS, JavaScript, and React. Features dynamic project gallery, smooth transitions, and integrated contact form.",
+            "thumbnail": "assets/images/portfolio-website.jpg",
+            "tags": ["Web"],
+            "tools": ["React", "CSS3", "JavaScript"],
+            "features": [
+                "Dynamic project gallery",
+                "Smooth transitions and animations",
+                "Contact form with email backend"
+            ],
+            "liveUrl": "https://example.com/portfolio",
+            "githubUrl": "https://github.com/yourusername/portfolio",
+            "featured": true
+        },
+        {
+            "id": 2,
+            "title": "Tech Store E-commerce",
+            "description": "Fully functional e-commerce website using WordPress and WooCommerce. Features product catalog, shopping cart, and secure payment integration.",
+            "thumbnail": "assets/images/ecommerce.jpg",
+            "tags": ["Web"],
+            "tools": ["WordPress", "WooCommerce", "PHP"],
+            "features": [
+                "Mobile-responsive design",
+                "PayPal and Stripe integration",
+                "Custom admin dashboard"
+            ],
+            "liveUrl": "https://example.com/techstore",
+            "featured": true
+        },
+        {
+            "id": 3,
+            "title": "Global Tech Startup Branding",
+            "description": "Comprehensive brand identity development including logo design, color palette, typography, and brand guidelines.",
+            "thumbnail": "assets/images/tech-branding.jpg",
+            "tags": ["Design", "Branding"],
+            "tools": ["Illustrator", "Photoshop"],
+            "deliverables": [
+                "Logo variants (vertical, horizontal)",
+                "Business cards and stationery",
+                "Digital assets package"
+            ],
+            "liveUrl": "https://behance.net/yourusername/techbranding",
+            "featured": true
+        },
+        {
+            "id": 4,
+            "title": "Health & Fitness App UI",
+            "description": "Complete UI/UX redesign for a health & fitness app, focusing on improving navigation and visual appeal.",
+            "thumbnail": "assets/images/fitness-app.jpg",
+            "tags": ["UI/UX"],
+            "tools": ["Figma", "Protopie"],
+            "features": [
+                "Streamlined onboarding",
+                "Improved dashboard design",
+                "High-fidelity prototypes"
+            ],
+            "liveUrl": "https://dribbble.com/yourusername/fitness-app",
+            "featured": true
+        },
+        {
+            "id": 5,
+            "title": "Music Festival Poster",
+            "description": "Eye-catching event poster design featuring vibrant typography and imagery for an international music festival.",
+            "thumbnail": "assets/images/festival-poster.jpg",
+            "tags": ["Design"],
+            "tools": ["Photoshop", "Illustrator"],
+            "deliverables": [
+                "Print and digital poster variants",
+                "Social media graphics package",
+                "High-resolution print assets"
+            ],
+            "liveUrl": "https://behance.net/yourusername/musicfest",
+            "featured": false
+        },
+        {
+            "id": 6,
+            "title": "Eco-Friendly Product Branding",
+            "description": "Full brand identity for an eco-friendly product line, including sustainable packaging design.",
+            "thumbnail": "assets/images/eco-brand.jpg",
+            "tags": ["Branding"],
+            "tools": ["Illustrator", "InDesign"],
+            "deliverables": [
+                "Logo and tagline",
+                "Sustainable packaging design",
+                "Social media templates"
+            ],
+            "liveUrl": "https://behance.net/yourusername/ecobrand",
+            "featured": true
+        },
+        {
+            "id": 7,
+            "title": "Finance Dashboard UI",
+            "description": "Interactive dashboard design for a finance management tool with focus on data visualization.",
+            "thumbnail": "assets/images/finance-dashboard.jpg",
+            "tags": ["UI/UX"],
+            "tools": ["Figma", "Sketch"],
+            "features": [
+                "Interactive data visualizations",
+                "Customizable filters and views",
+                "Responsive design system"
+            ],
+            "liveUrl": "https://dribbble.com/yourusername/finance-ui",
+            "featured": false
+        },
+        {
+            "id": 8,
+            "title": "Marketing Agency Website",
+            "description": "Multi-page corporate website featuring case studies, testimonials, and service pages with modern design.",
+            "thumbnail": "assets/images/agency-website.jpg",
+            "tags": ["Web"],
+            "tools": ["React", "Next.js", "TailwindCSS"],
+            "features": [
+                "SEO optimization",
+                "Social media integration",
+                "Interactive case studies"
+            ],
+            "liveUrl": "https://example.com/agency",
+            "githubUrl": "https://github.com/yourusername/agency-site",
+            "featured": false
+        }
+    ]
+}
